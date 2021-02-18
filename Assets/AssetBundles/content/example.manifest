@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3483072379
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 26c579e2409c41b4ab02060b1283ea63
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc3abc651e8ee611403c9b73623e7939
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9cc14df3dc2020648b1672d9ed3e07c6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a7a89cb7606ee2847a70d729946a961b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/DllBytes/Scripts..bytes
+- Assets/ARTools/Example/Prefabs/Scene.prefab
+- Assets/DllBytes/ARLens.ARTools.Runtime.example.bytes
+Dependencies: []
